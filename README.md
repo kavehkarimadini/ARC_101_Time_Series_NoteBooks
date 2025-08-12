@@ -1,6 +1,4 @@
-Alright — let’s build you a **clear, step-by-step introduction** to working with time series data, and then I’ll contrast **traditional vs modern forecasting** approaches.
 
----
 
 ## **1. What is Time Series Data?**
 
